@@ -25,15 +25,13 @@ Prompt the user to input two numbers and an operation choice.
 
 Perform the calculation and display the result.
 
-3. **Task 3**: [Password Generator](link_to_task2.md)
+3. **Task 3**: [Password Generator](https://github.com/ShieldedDev/CodSoft/blob/main/SecurePassGen.py)
    - Description: A password generator is a useful tool that generates strong and random passwords for users.
 
-   - This project aims to create a
-password generator application using Python, allowing users to specify the length and complexity of the password.
-
-   User Input: Prompt the user to specify the desired length of the password.
-   Generate Password: Use a combination of random characters to generate a password of the specified length.
-   Display the Password: Print the generated password on the screen.
+   - This project aims to create a password generator application using Python, allowing users to specify the length and complexity of the password.
+   - User Input: Prompt the user to specify the desired length of the password.
+   - Generate Password: Use a combination of random characters to generate a password of the specified length.
+   - Display the Password: Print the generated password on the screen.
 
 5. **Task 4**: [Rock-Paper-Scissors Game](link_to_task2.md)
    - Description: User Input: Prompt the user to choose rock, paper, or scissors.Computer Selection: Generate a random choice (rock, paper, or scissors) for the computer.
@@ -58,3 +56,20 @@ password generator application using Python, allowing users to specify the lengt
 
 The repository is organized as follows:
 
+/
+|-- task1/
+| |-- [Files for Task 1]
+|
+|-- task2/
+| |-- [Files for Task 2]
+|
+|-- task3/
+| |-- [Files for Task 3]
+|
+|-- task4/
+| |-- [Files for Task 4]
+|
+|-- task5/
+| |-- [Files for Task 5]
+|
+|-- README.md
