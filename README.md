@@ -52,24 +52,5 @@ Perform the calculation and display the result.
    - Delete Contact: Provide an option to delete a contact.
    - User Interface: Design a user-friendly interface for easy interaction.
 
-## Repository Structure
-
-The repository is organized as follows:
-
-/
-|-- task1/
-| |-- [Files for Task 1]
-|
-|-- task2/
-| |-- [Files for Task 2]
-|
-|-- task3/
-| |-- [Files for Task 3]
-|
-|-- task4/
-| |-- [Files for Task 4]
-|
-|-- task5/
-| |-- [Files for Task 5]
 |
 |-- README.md
