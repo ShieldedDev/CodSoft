@@ -15,7 +15,7 @@ Welcome to the repository for my internship tasks at CodSoft Enterprise. In this
 
 Below are the descriptions of the internship tasks I've worked on:
 
-1. **Task 1**: [To Do List](link_to_task1.md)
+1. **Task 1**: [To Do List](https://github.com/ShieldedDev/CodSoft/blob/main/To_do_list.py)
    - Description: A To-Do List application is a useful project that helps users manage and organize their tasks efficiently.
    - This project aims to create a command-line or GUI-based application using Python, allowing users to create, update, and track their to-do lists
 
