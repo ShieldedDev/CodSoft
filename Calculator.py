@@ -1,19 +1,24 @@
+# Get user input for two numbers and the operation
 num1 = int(input("Enter the 1st number: "))
-num2 = int(input("\nEnter the 2nd number: "))
-opr = input("\nEnter the operation (+,-,*,/): ")
+num2 = int(input("Enter the 2nd number: "))
+opr = input("Enter the operation (+, -, *, /): ")
 
-if opr=='+':
-    add=num1+num2
-    print(num1,'+',num2,'=',add)
+# Perform the selected operation and print the result
+if opr == '+':
+    result = num1 + num2
+    print(f"{num1} + {num2} = {result}")
+elif opr == '-':
+    result = num1 - num2
+    print(f"{num1} - {num2} = {result}")
+elif opr == '*':
+    result = num1 * num2
+    print(f"{num1} * {num2} = {result}")
+elif opr == '/':
+    if num2 == 0:
+        print("Error: Division by zero is not allowed.")
+    else:
+        result = num1 / num2
+        print(f"{num1} / {num2} = {result}")
+else:
+    print("Invalid operation. Please enter one of the allowed operations: +, -, *, /")
 
-if opr=='-':
-    subtract=num1-num2
-    print(num1,'-',num2,'=',subtract)
-
-if opr=='*':
-    multiply=num1*num2
-    print(num1,'*',num2,'=',multiply)
-
-if opr=='/':
-    divide=num1/num2
-    print(num1,'/',num2,'=',divide)
