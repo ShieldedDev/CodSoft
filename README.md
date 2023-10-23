@@ -19,7 +19,7 @@ Below are the descriptions of the internship tasks I've worked on:
    - Description: A To-Do List application is a useful project that helps users manage and organize their tasks efficiently.
    - This project aims to create a command-line or GUI-based application using Python, allowing users to create, update, and track their to-do lists
 
-2. **Task 2**: [Calculator](link_to_task2.md)
+2. **Task 2**: [Calculator](https://github.com/ShieldedDev/CodSoft/blob/main/Calculator.py)
    - Description: Design a simple calculator with basic arithmetic operations.
 Prompt the user to input two numbers and an operation choice.
 
