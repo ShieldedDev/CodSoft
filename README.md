@@ -33,7 +33,7 @@ Perform the calculation and display the result.
    - Generate Password: Use a combination of random characters to generate a password of the specified length.
    - Display the Password: Print the generated password on the screen.
 
-5. **Task 4**: [Rock-Paper-Scissors Game](link_to_task2.md)
+5. **Task 4**: [Rock-Paper-Scissors Game](https://github.com/ShieldedDev/CodSoft/blob/main/Rock_Paper_Scissors.py)
    - Description: User Input: Prompt the user to choose rock, paper, or scissors.Computer Selection: Generate a random choice (rock, paper, or scissors) for the computer.
    - Game Logic: Determine the winner based on the user's choice and the computer's choice.
    - Rock beats scissors, scissors beat paper, and paper beats rock.
